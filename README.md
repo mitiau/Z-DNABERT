@@ -20,4 +20,4 @@
 
 README.md - This file
 
-ZDNA-prediction.ipynb - Standalone notebook for prediction of Z-DNA. Intended to be run in colab enviroment via:
+ZDNA-prediction.ipynb - Standalone notebook for prediction of Z-DNA. Intended to be run in colab enviroment via: https://colab.research.google.com/github/mitiau/DNABERT-Z/blob/main/ZDNA-prediction.ipynb
